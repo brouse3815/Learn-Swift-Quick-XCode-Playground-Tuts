@@ -1,0 +1,4 @@
+//LEARN SWIFT QUICK
+import UIKit
+
+var str = "LECTURE 2: DATA TYPES"
